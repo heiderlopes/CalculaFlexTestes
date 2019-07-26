@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Posto Ypiranga",
+    "ethanol" : 2.49,
+    "gasoline": 3.99
+  },
+  {
+    "name": "Posto Shell",
+    "ethanol" : 2.69,
+    "gasoline": 4.29
+  },
+  {
+    "name": "Posto Esso",
+    "ethanol" : 2.79,
+    "gasoline": 4.19
+  },
+  {
+    "name": "Posto Dois Irmãos",
+    "ethanol" : 2.59,
+    "gasoline": 3.49
+  },
+  {
+    "name": "Posto Ale",
+    "ethanol" : 2.37,
+    "gasoline": 3.47
+  },
+  {
+    "name": "Posto Petobras",
+    "ethanol" : 2.55,
+    "gasoline": 3.55
+  },
+  {
+    "name": "Posto BR",
+    "ethanol" : 2.55,
+    "gasoline": 3.55
+  }
+]
